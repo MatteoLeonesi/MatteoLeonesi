@@ -5,4 +5,4 @@
 
 
 
-![Alt Text](https://media.giphy.com/media/8UHQOqnGhPqoxKH5UJ/giphy.gif | width=10)
+![Alt Text](https://media.giphy.com/media/8UHQOqnGhPqoxKH5UJ/giphy.gif =250x250)
