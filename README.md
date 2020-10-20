@@ -6,4 +6,4 @@
 
 
 ![Alt Text](https://media.giphy.com/media/8UHQOqnGhPqoxKH5UJ/giphy.gif )
-<img src="/https://media.giphy.com/media/8UHQOqnGhPqoxKH5UJ/giphy.gif" width="250" height="250"/>
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
