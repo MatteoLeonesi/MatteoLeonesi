@@ -1,4 +1,4 @@
 ### Hi there 
 
-- ❤️ I’m currently working on Official University App anti covid "Younicam" ( shorturl.at/fnDQX ) and other app projects! !
+- ❤️ I’m currently working on Official University App anti covid "Younicam" ( https://bit.ly/2GlWnUo ) and other app projects! !
 
